@@ -1,4 +1,5 @@
-# boné-de-acessibilidade
+# boné-de-acessibilidade-holysoftware <img width="505" height="542" alt="Design sem nome" src="https://github.com/user-attachments/assets/2f3313f9-3523-4320-a56b-31ececc07c1b" />
+
 
 🎓 Boné Sensorial: Assistência e SegurançaEste projeto consiste em um boné inteligente equipado com sensores ultrassônicos e tecnologia Arduino. O objetivo principal é auxiliar a mobilidade e aumentar a percepção espacial do usuário, emitindo alertas sonoros conforme a proximidade de obstáculos.
 
@@ -6,8 +7,12 @@
 
 
 🛠️ Hardware Necessário
+
 Componente |Arduino Nano | Sensor Ultrassônico HC-SR04 | Buzzer Ativo/Passivo | Bateria 9V ou Power Bank | Resistores e Jumpers
 
 Quantidade | 1 | 1 | 1 | - |
 
 Função | Microcontrolador principal | Medição de distância | Emissão de alerta sonoro | Fonte de alimentação | Conexão dos componentes 
+
+
+
